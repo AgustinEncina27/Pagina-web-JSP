@@ -159,7 +159,7 @@
 					<text><![CDATA[Importe:]]></text>
 				</staticText>
 				<textField isStretchWithOverflow="true">
-					<reportElement style="Detail" positionType="Float" x="388" y="181" width="164" height="35" uuid="8fb2d6d4-6f0d-4df8-ae5c-b1314a2fad9c"/>
+					<reportElement style="Detail" positionType="Float" x="48" y="209" width="502" height="35" uuid="8fb2d6d4-6f0d-4df8-ae5c-b1314a2fad9c"/>
 					<textElement textAlignment="Right">
 						<font size="24" isBold="true"/>
 					</textElement>
